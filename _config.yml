@@ -1,7 +1,7 @@
 # Basic
 title: Leslie
 subtitle: Is's my private blog.
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">maybe you wanna go</a>
+welcome_message: <a href="https://baidu.com" target="_blank">maybe you wanna go</a>
 description: If you know me,that's cool.If you don't,you may not get what you want.xd
 creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -37,11 +37,10 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
+    weibo: iyohey
+    github: iyohey
     gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    mail: pingxie1@outlook.com
 
 # Google Analytics
 ga:
