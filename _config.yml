@@ -46,7 +46,9 @@ social:
 ga:
     # id: your_ga_id
     # host: your_host
-    
+
+
+$ npm install --save gitment
 gitment:
   # Switch
   enable: true
