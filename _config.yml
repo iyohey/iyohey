@@ -47,15 +47,5 @@ ga:
     # id: your_ga_id
     # host: your_host
     
-gitment:
-  # Switch
-  enable: true
-  # Your Github ID (Github username):
-  owner: iyohey
-  # The repo to store comments:
-  repo: iyohey.github.io
-  # Your client ID:
-  client_id: '9ba9ea5cd8b7f03722af'
-  # Your client secret:
-  client_secret: '8dee58b2c64455050081a5d7b077edcf39fc7973'
+
     
